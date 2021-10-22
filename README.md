@@ -1,9 +1,9 @@
-- 👋  Hi, I’m Koatiantyn Polischuk
+- 👋   Hi, I’m Kostiantyn Polischuk
 <!-- - 👀  I’m interested in ... -->
-- 🌱  I’m currently learning [K8S](https://github.com/Slurmio/school-dev-k8s)
+- 🌱   I’m currently learning [K8S](https://github.com/Slurmio/school-dev-k8s)
 <!-- - 💞️  I’m looking to collaborate on ... -->
 <!-- - 📫  How to reach me ... -->
-- 🔗  [GitHub](https://github.com/heartpolik)
+- 🔗   my [GitHub](https://github.com/heartpolik)
 
 <!---
 kpolischuk/kpolischuk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
